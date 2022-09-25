@@ -6,6 +6,7 @@
         background-color: #1d1f23;
         color: white;
         background-image: url("https://wallpaperaccess.com/full/3053366.png");
+        user-select: none;
     }
 
     text {

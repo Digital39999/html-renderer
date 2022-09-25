@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+    html {
+        font-family: 'Ubuntu', sans-serif;
+        background-color: #1d1f23;
+        color: white;
+        background-image: url("https://wallpaperaccess.com/full/3053366.png");
+    }
+
+    text {
+        background-color: #131418;
+        padding: 0.2rem 0.2rem 0.1rem 0.2rem;
+        border-radius: 0.2rem;
+        user-select: all;
+    }
+
+    a {
+        all: unset;
+        font-family: 'Open Sans', sans-serif;
+        cursor: pointer;
+        color: #858ff5;
+        transition-duration: 200ms;
+    }
+
+    main {
+        text-align: left;
+    }
